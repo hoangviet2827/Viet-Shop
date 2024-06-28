@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beanies &#8211; Viet Shop</title>
+	<atom:link href="https://hoangviet2827.github.io/Viet-Shop/product-category/beanies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoangviet2827.github.io/Viet-Shop</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Jun 2024 19:41:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://hoangviet2827.github.io/Viet-Shop/wp-content/uploads/2018/11/favicon.png</url>
+	<title>Beanies &#8211; Viet Shop</title>
+	<link>https://hoangviet2827.github.io/Viet-Shop</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MTV X UM // PAUSE</title>
+		<link>https://hoangviet2827.github.io/Viet-Shop/product/mtv-x-um-pause/</link>
+					<comments>https://hoangviet2827.github.io/Viet-Shop/product/mtv-x-um-pause/#respond</comments>
+		
+		<dc:creator><![CDATA[Vietnh]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 18:25:47 +0000</pubDate>
+				<guid isPermaLink="false">https://hoangviet2827.github.io/Viet-Shop/?post_type=product#038;p=5162</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangviet2827.github.io/Viet-Shop/product/mtv-x-um-pause/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
