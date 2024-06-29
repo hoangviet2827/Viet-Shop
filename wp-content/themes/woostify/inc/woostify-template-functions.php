@@ -2358,7 +2358,7 @@ if ( ! function_exists( 'woostify_site_header' ) ) {
 			return;
 		}
 		?>
-		<header id="masthead" class="<?php woostify_header_class(); ?>">
+		<header id="masthead" class="<?php woostify_header_class(); ?>" style="position: sticky; top: 0; z-index: 20">
 			<div class="site-header-inner">
 				<?php
 				/**
