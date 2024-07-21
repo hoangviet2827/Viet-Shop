@@ -18,7 +18,7 @@ RewriteRule . /ecom/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "D:\htdocs\ecom/wp-content/uploads\simply-static\3e3de0624dca667d002bf521b2ca790e-debug.txt">
+<Files "D:\htdocs\ecom/wp-content/uploads\simply-static\0c08645463401351fbac6c8d21652d2f-debug.txt">
 require all denied
 require host localhost
 </Files>

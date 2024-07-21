@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flat Caps &#8211; Viet Shop</title>
+	<atom:link href="https://hoangviet2827.github.io/Viet-Shop/product-category/flat-caps-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoangviet2827.github.io/Viet-Shop</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Jul 2024 15:49:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://hoangviet2827.github.io/Viet-Shop/wp-content/uploads/2018/11/favicon.png</url>
+	<title>Flat Caps &#8211; Viet Shop</title>
+	<link>https://hoangviet2827.github.io/Viet-Shop</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FRONTRUNNER</title>
+		<link>https://hoangviet2827.github.io/Viet-Shop/product/runner/</link>
+					<comments>https://hoangviet2827.github.io/Viet-Shop/product/runner/#comments</comments>
+		
+		<dc:creator><![CDATA[Vietnh]]></dc:creator>
+		<pubDate>Thu, 18 Oct 2018 02:29:02 +0000</pubDate>
+				<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=product&#038;p=113</guid>
+
+					<description><![CDATA[This cap is a portal to a world of tranquil serenity. The cap's silhouette, a classic baseball cap, boasts a low profile and a gently curved brim.]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p>Introducing “The Afterglow&#8221; cap, a masterpiece that captures the essence of twilight. This cap is a portal to a world of tranquil serenity. The cap&#8217;s silhouette, a classic baseball cap, boasts a low profile and a gently curved brim. The colour palette transitions seamlessly from a rich golden red at the crown to a deep, indigo at the brim, mirroring the colors of the horizon as day melts into night.</p>
+<p>Genderless Apparel by Urban Monkey®</p>
+<div class="origin">
+<p>country of origin &#8211; China<br />
+imported by &#8211; Urban Monkey Private Limited</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangviet2827.github.io/Viet-Shop/product/runner/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
